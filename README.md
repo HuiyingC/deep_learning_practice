@@ -1,1 +1,1 @@
-# deep_learning_practice
+# Huiying's Coding Practice for building foundations in DL
